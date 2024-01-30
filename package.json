@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.13",
+    "qr-image": "^3.2.0"
+  },
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shashank Varma",
+  "license": "ISC",
+  "description": "URL to QR Code",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashankvarma1/url-qr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shashankvarma1/url-qr/issues"
+  },
+  "homepage": "https://github.com/shashankvarma1/url-qr#readme"
+}
